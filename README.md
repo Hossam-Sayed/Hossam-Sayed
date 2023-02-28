@@ -18,9 +18,9 @@
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hossam-Sayed/Hossam-Sayed/blob/snake/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hossam-Sayed/Hossam-Sayed/blob/snake/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Hossam-Sayed/Hossam-Sayed/blob/snake/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
   </picture>
 
 <!-- ![Snake animation](https://github.com/Hossam-Sayed/Hossam-Sayed/blob/snake/github-contribution-grid-snake.svg) -->
