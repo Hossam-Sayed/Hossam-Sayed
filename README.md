@@ -30,7 +30,7 @@
 
 <div align=right>
 
-**[`TOP⮭`](#top)**
+**[`🔝`](#top)**
 
 </div>
 
