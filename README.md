@@ -1,4 +1,4 @@
-# Hossam Sayed
+# Hossam Sayed 👨‍💻
 
 - 🔭 I’m currently studying Computer Engineering at Ain-Shams University
 - 💬 Ask me about Android, Kotlin, Java, Flutter, Dart, data structures and algorithms
