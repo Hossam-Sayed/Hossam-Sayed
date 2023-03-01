@@ -25,7 +25,7 @@
   
 </div>
 
-## Skills 🎯
+## Skills 🧠
 
 <picture>
   <img src="https://skillicons.dev/icons?i=git" />
