@@ -29,21 +29,46 @@
 
 <picture>
   <img src="https://skillicons.dev/icons?i=git" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=github" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=kotlin" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=java" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=dart" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=flutter" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=idea" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=androidstudio" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=vscode" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=cpp" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=c" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=visualstudio" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=ai" />
+</picture>
+<picture>
   <img src="https://skillicons.dev/icons?i=ps" />
 </picture>
-
 <div align=right>
 
 **[`🔝`](#top)**
