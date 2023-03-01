@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=ai" />
   <img src="https://skillicons.dev/icons?i=ps" />
-</pocture>
+</picture>
 
 <div align=right>
 
