@@ -10,8 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Sayed&layout=compact&theme=buefy&langs_count=8&line_height=24&exclude_repo=Embedded-Systems-Project) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam-Sayed&custom_title=Hossam's%20GitHub%20Stats&theme=buefy&show_icons=true&include_all_commits=true&line_height=24)
 
 
-### Favourite Repositories ❤
-
+## Favourite Repositories ❤
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hossam-Sayed&repo=fancy-todo-app&theme=buefy)](https://github.com/Hossam-Sayed/fancy-todo-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hossam-Sayed&repo=location-reminder-app&theme=buefy)](https://github.com/Hossam-Sayed/location-reminder-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hossam-Sayed&repo=asteroid-radar&theme=buefy)](https://github.com/Hossam-Sayed/asteroid-radar)
@@ -23,28 +22,17 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
   </picture>
-
-<!-- ![Snake animation](https://github.com/Hossam-Sayed/Hossam-Sayed/blob/snake/github-contribution-grid-snake.svg) -->
   
 </div>
+
+## Skills 🎯
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,kotlin,java,dart,flutter,idea,androidstudio,vscode,cpp,c,visualstudio,ai,ps" />
+</p>
 
 <div align=right>
 
 **[`🔝`](#top)**
 
 </div>
-
-<!--
-**Hossam-Sayed/Hossam-Sayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
