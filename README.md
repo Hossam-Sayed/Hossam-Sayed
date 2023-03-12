@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/hossam-sayed-nasr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto: hossamsayed3030@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Sayed&layout=compact&theme=transparent&langs_count=8&line_height=24&exclude_repo=Embedded-Systems-Project&card_width=300) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam-Sayed&custom_title=Hossam's%20GitHub%20Stats&theme=transparent&show_icons=true&include_all_commits=true&line_height=24&icon_color=d93434&title_color=d93434&text_color=faaf40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Sayed&layout=compact&theme=transparent&langs_count=8&line_height=24&exclude_repo=Embedded-Systems-Project&card_width=300&title_color=EA2027&text_color=faaf40&border_color=EA2027) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam-Sayed&custom_title=Hossam's%20GitHub%20Stats&theme=transparent&show_icons=true&include_all_commits=true&line_height=24&icon_color=EA2027&title_color=EA2027&text_color=faaf40&border_color=EA2027)
 
 
 <!-- ## Favourite Repositories ❤
