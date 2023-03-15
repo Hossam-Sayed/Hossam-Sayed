@@ -21,7 +21,7 @@
   
 </div>
 
-## GitHub Profile Trofies 🏆
+## GitHub Profile Trophies 🏆
 
 <picture>
   <img src="https://github-profile-trophy.vercel.app/?username=Hossam-Sayed&title=MultipleLang,Repositories,Commits,Stars" />
