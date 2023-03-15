@@ -9,14 +9,9 @@
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Sayed&layout=compact&theme=radical&langs_count=8&line_height=24&exclude_repo=Embedded-Systems-Project&card_width=300&title_color=EA2027&text_color=12CBC4&border_color=EA2027) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam-Sayed&custom_title=Hossam's%20GitHub%20Stats&theme=radical&show_icons=true&line_height=24&icon_color=EA2027&title_color=EA2027&text_color=12CBC4&border_color=EA2027)
-
-
-<!-- ## Favourite Repositories ❤
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hossam-Sayed&repo=fancy-todo-app&theme=transparent)](https://github.com/Hossam-Sayed/fancy-todo-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hossam-Sayed&repo=location-reminder-app&theme=transparent)](https://github.com/Hossam-Sayed/location-reminder-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hossam-Sayed&repo=asteroid-radar&theme=transparent)](https://github.com/Hossam-Sayed/asteroid-radar) -->
-
-<!-- <div align="center"> -->
+  
+  
+<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=Hossam-Sayed&title=MultipleLang,Repositories,Commits,Stars)]() -->
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
@@ -25,6 +20,12 @@
   </picture>
   
 </div>
+
+## GitHub Profile Trofies 🏆
+
+<picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hossam-Sayed&title=MultipleLang,Repositories,Commits,Stars" />
+</picture>
 
 ## Skills 🧠
 
