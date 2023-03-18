@@ -24,7 +24,7 @@
 ## GitHub Profile Trophies 🏆
 
 <picture>
-  <img src="https://github-profile-trophy.vercel.app/?username=Hossam-Sayed&title=MultipleLang,Repositories,Commits,Stars&theme=onedark&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hossam-Sayed&title=MultipleLang,Repositories,Commits&theme=onedark&no-bg=true" />
 </picture>
 
 ## Skills 🧠
