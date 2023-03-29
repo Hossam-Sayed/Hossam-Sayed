@@ -73,5 +73,5 @@
 </picture>
 <div align=right>
 
-**[`TOP`](#top)**
+**[`↑ TOP ↑`](#top)**
 </div>
