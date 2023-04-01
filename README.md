@@ -27,7 +27,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hossam-Sayed&title=MultipleLang,Repositories,Commits&theme=onedark&no-bg=true" />
 </picture>
 
-## Skills 🧠
+## Skills 🎯
 
 <picture>
   <img src="https://skillicons.dev/icons?i=git" />
