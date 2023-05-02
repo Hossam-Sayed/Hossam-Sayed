@@ -9,8 +9,10 @@
   
 <div align="center">
   
+  <!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Sayed&layout=compact&theme=transparent&langs_count=8&line_height=24&exclude_repo=Embedded-Systems-Project&card_width=300&title_color=EA2027&text_color=31a8ff&border_color=EA2027) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam-Sayed&custom_title=Hossam's%20GitHub%20Stats&theme=transparent&show_icons=true&line_height=24&icon_color=EA2027&title_color=EA2027&text_color=31a8ff&border_color=EA2027)
-  
+-->  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
