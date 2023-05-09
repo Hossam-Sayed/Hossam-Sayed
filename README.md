@@ -9,8 +9,6 @@
   
 <div align="center">
   
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Sayed&layout=compact&theme=transparent&langs_count=8&line_height=24&exclude_repo=Embedded-Systems-Project&card_width=300&title_color=fff&text_color=fff&border_color=fff&hide_border=true&bg_color=0,000428,004e92) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam-Sayed&custom_title=Hossam's%20GitHub%20Stats&theme=transparent&show_icons=true&line_height=24&icon_color=fff&title_color=fff&text_color=fff&border_color=EA2027&hide_border=true&bg_color=0,004e92,000428)
 
   <picture>
@@ -21,13 +19,13 @@
   
 </div>
 
-
+<!--
 ## GitHub Profile Trophies 🏆
 
 <picture>
   <img src="https://github-profile-trophy.vercel.app/?username=Hossam-Sayed&title=MultipleLang,Repositories,Commits&theme=onedark&no-bg=true" />
 </picture>
-
+-->
 ## Skills 🎯
 
 <picture>
