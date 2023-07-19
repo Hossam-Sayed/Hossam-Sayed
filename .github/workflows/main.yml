@@ -25,7 +25,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.Hossam-Sayed }}
+          github_user_name: Hossam-Sayed
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
           #
