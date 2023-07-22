@@ -1,24 +1,13 @@
-<h1> Hi there, It's Hossam <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> </h1> 
+<h1> Hi there, I'm Hossam <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> </h1> 
 
 - 🔭 I’m currently studying Computer Engineering at Ain-Shams University
 - 💬 Ask me about Android, Kotlin, Java, Flutter, Dart, data structures, and algorithms
 
-<!--
-- 📫 How to reach me:
-  
-  <a href="https://www.linkedin.com/in/hossam-sayed-nasr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto: hossamsayed3030@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  -->
 <br>  
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Sayed&layout=compact&theme=transparent&langs_count=8&line_height=24&exclude_repo=Embedded-Systems-Project&card_width=300&title_color=fff&text_color=fff&border_color=fff&hide_border=true&bg_color=0,000428,004e92) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam-Sayed&custom_title=Hossam's%20GitHub%20Stats&theme=transparent&show_icons=true&rank_icon=github&line_height=24&icon_color=fff&title_color=fff&text_color=fff&border_color=EA2027&hide_border=true&bg_color=0,004e92,000428)
-<!--
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-contribution-grid-snake.svg">
-  </picture>
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Sayed&layout=compact&theme=transparent&langs_count=8&line_height=25&exclude_repo=Embedded-Systems-Project&card_width=300&title_color=fff&text_color=fff&border_color=fff&hide_border=true&bg_color=0,000428,004e92) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam-Sayed&custom_title=Hossam's%20GitHub%20Stats&theme=transparent&show_icons=true&rank_icon=github&line_height=24&icon_color=fff&title_color=fff&text_color=fff&border_color=EA2027&hide_border=true&bg_color=0,004e92,000428)
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-snake.svg" />
@@ -26,15 +15,6 @@
   </picture>
   
 </div>
-
-<!--
-## GitHub Profile Trophies 🏆
-
-<picture>
-  <img src="https://github-profile-trophy.vercel.app/?username=Hossam-Sayed&title=MultipleLang,Repositories,Commits&theme=onedark&no-bg=true" />
-</picture>
--->
-
 
 ## Skills 🎯
 
