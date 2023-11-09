@@ -4,7 +4,6 @@
 - 💬 Ask me about Android, Kotlin, Java, Flutter, Dart, data structures, and algorithms
 
 
-
 <!-- <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> -->
 <br>
 <div align="center">
