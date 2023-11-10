@@ -3,6 +3,9 @@
 - 🔭 I’m currently studying Computer Engineering at Ain-Shams University
 - 💬 Ask me about Android, Kotlin, Java, Flutter, Dart, data structures, and algorithms
 
+<!--
+![](https://komarev.com/ghpvc/?username=Hossam-Sayed)
+-->
 
 <!-- <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> -->
 <br>
