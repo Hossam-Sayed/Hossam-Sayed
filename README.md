@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Hossam <img width="30"src="https://github.com/Hossam-Sayed/Hossam-Sayed/assets/83096913/4c780549-62bf-4d1d-93f4-3284eba9201d" /> </h1> 
+<h1> Hi there, I'm Hossam <img src='https://github.com/Hossam-Sayed/Hossam-Sayed/assets/83096913/9d8410dd-4969-40c1-8fa5-a332729f0edf' width="36px"/> </h1> 
 
 - 🔭 I’m currently studying Computer Engineering at Ain-Shams University
 - 💬 Ask me about Android, Kotlin, Java, Flutter, Dart, data structures, and algorithms
@@ -23,7 +23,7 @@
   
 </div>
 
-## Skills 🎯
+## Skills <img  align=center src="https://github.com/Hossam-Sayed/Hossam-Sayed/assets/83096913/51152b96-bf23-4669-9089-0b21d17d1cdb" alt="Brain" width="30" height="30" />
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git" />
