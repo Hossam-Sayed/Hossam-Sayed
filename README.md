@@ -26,46 +26,74 @@
 ## Skills 🎯
 
 <picture>
-  <img src="https://skillicons.dev/icons?i=git" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git" />
+  	<img src="https://skillicons.dev/icons?i=git" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=github" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github" />
+  	<img src="https://skillicons.dev/icons?i=github" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=kotlin" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin" />
+  	<img src="https://skillicons.dev/icons?i=kotlin" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=java" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java" />
+  	<img src="https://skillicons.dev/icons?i=java" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=dart" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart" />
+  	<img src="https://skillicons.dev/icons?i=dart" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=flutter" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter" />
+  	<img src="https://skillicons.dev/icons?i=flutter" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=idea" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=idea" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=idea" />
+  	<img src="https://skillicons.dev/icons?i=idea" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=androidstudio" />
+  	<img src="https://skillicons.dev/icons?i=androidstudio" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=vscode" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode" />
+  	<img src="https://skillicons.dev/icons?i=vscode" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=cpp" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp" />
+  	<img src="https://skillicons.dev/icons?i=cpp" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=c" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c" />
+  	<img src="https://skillicons.dev/icons?i=c" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=visualstudio" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=visualstudio" />
+  	<img src="https://skillicons.dev/icons?i=visualstudio" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=ai" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ai" />
+  	<img src="https://skillicons.dev/icons?i=ai" />
 </picture>
 <picture>
-  <img src="https://skillicons.dev/icons?i=ps" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ps" />
+  	<img src="https://skillicons.dev/icons?i=ps" />
 </picture>
 <div align=right>
 
