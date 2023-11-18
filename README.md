@@ -71,6 +71,11 @@
   	<img src="https://skillicons.dev/icons?i=vscode" />
 </picture>
 <picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=visualstudio&theme=light" />
+  	<img src="https://skillicons.dev/icons?i=visualstudio" />
+</picture>
+<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp" />
 	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp&theme=light" />
   	<img src="https://skillicons.dev/icons?i=cpp" />
@@ -79,11 +84,6 @@
 	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c" />
 	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light" />
   	<img src="https://skillicons.dev/icons?i=c" />
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio" />
-	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=visualstudio&theme=light" />
-  	<img src="https://skillicons.dev/icons?i=visualstudio" />
 </picture>
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai" />
