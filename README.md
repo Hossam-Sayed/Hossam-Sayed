@@ -86,6 +86,11 @@
   	<img src="https://skillicons.dev/icons?i=c" />
 </picture>
 <picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman" />
+	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman&theme=light" />
+  	<img src="https://skillicons.dev/icons?i=postman" />
+</picture>
+<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai" />
 	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ai&theme=light" />
   	<img src="https://skillicons.dev/icons?i=ai" />
