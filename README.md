@@ -14,6 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Sayed&layout=compact&theme=transparent&langs_count=8&line_height=25&exclude_repo=Embedded-Systems-Project,data-analysis-challenge-eT3&card_width=300&title_color=fff&text_color=fff&border_color=fff&hide_border=true&bg_color=0,005C97,363795) ![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossam-Sayed&custom_title=My%20GitHub%20Stats&theme=transparent&show_icons=true&rank_icon=github&line_height=24&icon_color=fff&title_color=fff&text_color=fff&border_color=EA2027&hide_border=true&bg_color=0,363795,005C97)
 
 
+
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-snake-dark.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hossam-Sayed/Hossam-Sayed/snake/github-snake.svg" />
