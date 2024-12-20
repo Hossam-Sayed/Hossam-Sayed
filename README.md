@@ -1,7 +1,7 @@
 <h1> Hi, I'm Hossam <img src='https://github.com/Hossam-Sayed/Hossam-Sayed/assets/83096913/9d8410dd-4969-40c1-8fa5-a332729f0edf' width="36px"/> </h1> 
 
 - 🎓 I'm a fresh computer engineering graduate from Ain Shams University.
-- 💬 Ask me about Android, Kotlin, Java, Flutter, Dart, problem solving, Data Structures, and Algorithms
+- 💬 Ask me about Android, Kotlin, Java, Flutter, Dart, problem-solving, Data Structures, and Algorithms
 
 <!--
 ![](https://komarev.com/ghpvc/?username=Hossam-Sayed)
